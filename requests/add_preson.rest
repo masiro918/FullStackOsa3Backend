@@ -1,7 +1,7 @@
-POST http://localhost:3001/api/persons/
+POST https://fullstackopen-osa3-1pya.onrender.com/api/persons
 Content-Type: application/json
 
 {
-    "name": "Antti",
+    "name": "Kalle-Matti",
     "number": "040-123456"
 }
