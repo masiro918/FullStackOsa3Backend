@@ -1,2 +1,2 @@
-DELETE https://fullstackopen-osa3-1pya.onrender.com/api/persons/7
+DELETE http://localhost:3001/api/persons/2359
 Content-Type: application/json
